@@ -1,0 +1,3 @@
+#!/bin/bash
+
+bin/container-cli react-cli $@

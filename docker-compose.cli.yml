@@ -1,0 +1,7 @@
+version: "3"
+services: 
+  react-cli:
+    build: .
+    command: yarn
+    volumes:
+      - .:/app
